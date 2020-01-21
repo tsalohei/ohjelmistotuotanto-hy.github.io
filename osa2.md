@@ -197,7 +197,7 @@ Lähteenä on monia kirjoja ja blogikirjoituksia, mm. verkosta löytyvät [Henri
   
 ## User story 
 
-Ketterän vaatimusmäärittelyn tärkein työväline on _user story_. Samasta asiasta käytetään joskus suomenkielistä termiä _käyttäjätarina_. Käännös ei kuitenkaan ole täysin vakiintunut, joten käytämme jatkossa englanninkielistä termiä.
+Ketterän vaatimusmäärittelyn tärkein työväline on _user story_. Samasta asiasta käytetään joskus suomenkielistä termiä _käyttäjätarina_. Käännös ei kuitenkaan ole täysin vakiintunut, joten käytämme jatkossa englanninkielistä termiä.
  
 Alan suurimman auktoriteetin [Mike Cohnin mukaan](https://www.mountaingoatsoftware.com/articles/advantages-of-user-stories-for-requirements):
 
@@ -237,7 +237,7 @@ Usein on tapana kirjoittaa user storyn kuvaus pienelle noin 10-15 cm pahvikortil
 ![]({{ "/images/2-4.jpg" | absolute_url }})
 
 Kortin etupuolelle on kirjoitettu lyhyt kuvaus storyn sisällöstä, prioriteetti ja estimaatti. 
-_Estimaatilla_ tarkoitetaan kortin toiminnallisuuden toteuttamisen työmääräarviota. Palaamme estimointiin pian tarkemmin.
+_Estimaatilla_ tarkoitetaan kortin toiminnallisuuden toteuttamisen työmääräarviota. Palaamme estimointiin pian tarkemmin.
 
 Kortin takapuolella suhteellisen informaalilla kielellä kirjoitettu joukko storyn hyväksymiskriteerejä.
 
@@ -430,7 +430,7 @@ Kun tiimi on keskustellut aikansa, tapahtuu uusi estimointikierros ja riittävä
 ## Hyvä product backlog on DEEP
 
 Mike Cohn ja Roman Pichler ovat lanseeranneet lyhenteen
-[DEEP](https://www.romanpichler.com/blog/make-the-product-backlog-deep/) kuvaimaan hyvän backlogin ominaisuuksia. Lyhenne tulee sanoista _detailed appropriately, estimated, emergent_ ja _prioritized_.
+[DEEP](https://www.romanpichler.com/blog/make-the-product-backlog-deep/) kuvaamaan hyvän backlogin ominaisuuksia. Lyhenne tulee sanoista _detailed appropriately, estimated, emergent_ ja _prioritized_.
 
 Näistä ominaisuuksista _estimated_ ja _prioritized_ ovat meille tuttuja: storyillä on työmääräarviot ja storyt on priorisoitu eli asetettu tärkeysjärjestykseen.
 
